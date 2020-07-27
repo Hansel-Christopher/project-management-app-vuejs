@@ -1,0 +1,7 @@
+package-lock.json
+node_modules
+dist
+.netlify
+.DS_Store
+src/components/.DS_Store
+tests/coverage/**
